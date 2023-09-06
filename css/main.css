@@ -33,6 +33,10 @@ a {
   color: inherit;
 }
 
+.firt-nav {
+  border-top: solid 2px #3a5af7;
+}
+
 img,
 video {
   max-inline-size: 100%;
