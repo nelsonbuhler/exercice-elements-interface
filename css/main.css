@@ -30,6 +30,7 @@ body {
 }
 
 a {
+  display: block;
   color: inherit;
   font-size: 18px;
   border-bottom: solid 1px #3a5af7;
