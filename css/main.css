@@ -31,10 +31,17 @@ body {
 
 a {
   color: inherit;
+  font-size: 18px;
+  border-bottom: solid 1px #3a5af7;
+  padding: 6.5px 0px;
+}
+
+.navigation {
+  margin: 11.5px 0px;
 }
 
 .firt-nav {
-  border-top: solid 2px #3a5af7;
+  border-top: solid 1px #3a5af7;
 }
 
 img,
@@ -49,12 +56,7 @@ header {
   color: #eaeaea;
   padding-left: 16px;
   padding-right: 16px;
-}
-
-a {
-  font-size: 18px;
-  border-bottom: solid 1px #3a5af7;
-  padding: 11.5px 0px;
+  padding: 32px 16px;
 }
 
 hr {
